@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Jeanpier Mendoza
 
 - 🔭 I’m currently working on **my portfolio projects and project grade**
-- 🌱 I’m currently learning **[Kubernetes](https://kubernetes.io/)**
+<!-- - 🌱 I’m currently learning **[Kubernetes](https://kubernetes.io/)** -->
 - ✏ I want to learn **[AWS](https://aws.amazon.com/)**
 - 💬 Ask me about **Spring Boot, Node.js and React.js**
 - 📫 How to reach me: **jeanpiermendoza@outlook.com**
