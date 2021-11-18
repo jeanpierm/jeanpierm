@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jeanpier Mendoza
+# Hi there 👋, I'm Jeanpier Mendoza
 
 - 🔭 I’m currently working on **my portfolio projects and project grade**
 - ✏ I want to learn **[AWS](https://aws.amazon.com/)**
@@ -8,6 +8,17 @@
 <!-- - 🌱 I’m currently learning **[Kubernetes](https://kubernetes.io/)** -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
+
+## About me
+I enjoy creating software, mainly the web. Excited to learn new things and to improve as a person.
+
+Strong knowledge of languages:
+- JavaScript / TypeScript
+- Java
+
+Current web stacks:
+- Back: Node.js / Spring Boot
+- Front: React.js / Angular / Vue.js
 
 ## Skills
 <p align="left">
