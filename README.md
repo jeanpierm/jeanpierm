@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Jeanpier Mendoza
 
 - 🔭 I’m currently working on **my portfolio projects and project grade**
-- 🌱 I’m currently learning **[Docker](https://www.docker.com/)**
 - ✏ I want to learn **[AWS](https://aws.amazon.com/)**
 - 💬 Ask me about **Spring Boot, Node.js and React.js**
 - 📫 How to reach me: **jeanpiermendoza@outlook.com**
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
+<!-- - 🌱 I’m currently learning **[Docker](https://www.docker.com/)** -->
 
 ## About me
 I enjoy creating software, mainly the web. Excited to learn new things and to improve as a person.
