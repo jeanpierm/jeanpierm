@@ -16,9 +16,11 @@ Strong knowledge of languages:
 - JavaScript / TypeScript
 - Java
 
-Current web stacks:
-- Back: Node.js / Spring Boot
-- Front: React.js / Angular / Vue.js
+Stacks:
+- Back: Node.js, Spring Boot
+- DB: MySQL, PostgreSQL, MongoDB, Firestore
+- Front: React.js, Angular, Vue.js
+- Tools: GNU/Linux, Docker, Git
 
 ## Skills
 <p align="left">
