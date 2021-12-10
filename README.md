@@ -20,7 +20,7 @@ Stacks:
 - Back: Node.js, Spring Boot
 - DB: MySQL, PostgreSQL, MongoDB, Firestore
 - Front: React.js, Angular, Vue.js
-- Tools: GNU/Linux, Docker, Git
+- Tools: GNU/Linux, Docker, Git, Firebase
 
 ## Skills
 <p align="left">
@@ -78,3 +78,10 @@ Stacks:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jeanpierm&layout=compact&hide=html,jupyter%20%notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+## Hobbies
+
+- Watch science or history documentaries
+- Training powerlifting
+- Play videogames
+- Listen to rancheras
