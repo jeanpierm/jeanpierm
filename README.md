@@ -12,6 +12,8 @@
 ## About me
 I enjoy creating software, mainly the web. Excited to learn new things and to improve as a person.
 
+## Skills
+
 Strong knowledge of languages:
 - JavaScript / TypeScript
 - Java
@@ -22,7 +24,6 @@ Stacks:
 - Front: React.js, Angular, Vue.js
 - Tools: GNU/Linux, Docker, Git, Firebase
 
-## Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="48" height="48"/>
