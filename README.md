@@ -19,7 +19,7 @@ Strong knowledge of languages:
 - Java
 
 Stacks:
-- Back: Node.js, Spring Boot
+- Back: Node.js, Spring Boot, Quarkus.io
 - DB: MySQL, PostgreSQL, MongoDB
 - Front: React.js, Angular, Vue.js
 - Tools: GNU/Linux, Docker, Git, Firebase
