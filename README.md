@@ -46,6 +46,12 @@ Stacks:
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="48" height="48"/>
   </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.armadilloamarillo.com/wp-content/uploads/course-image.png" alt="spring" width="48" height="48"/>
+  </a>
+  <a href="https://quarkus.io/" target="_blank" rel="noreferrer">
+    <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="spring" width="48" height="48"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="48" height="48"/>
   </a>
