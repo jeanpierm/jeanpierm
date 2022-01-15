@@ -3,7 +3,6 @@
 - 🔭 I’m currently working for **[Gizlo](https://gizlocorp.com/)** as Software Developer and in my **degree work**
 - ✏ I want to learn **[AWS](https://aws.amazon.com/)**
 - 💬 Ask me about **Spring Boot, Node.js and React.js**
-- 📫 How to reach me: **jeanpiermendoza@outlook.com**
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
