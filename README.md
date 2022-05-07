@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jeanpier Mendoza
 
-- 🔭 I’m currently working for **[Gizlo](https://gizlocorp.com/)** as Software Developer and in my **degree work**
+- 🔭 I’m currently working in my **degree work**
 - ✏ I want to learn **[AWS](https://aws.amazon.com/)**
 - 💬 Ask me about **Spring Boot, Node.js and React.js**
 <!-- - ⚡ Fun fact: ... -->
