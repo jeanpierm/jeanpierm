@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Jeanpier Mendoza
 
 - 🔭 I’m currently working in my **degree work**
-- ✏ I want to learn **[AWS](https://aws.amazon.com/)**
-- 💬 Ask me about **Spring Boot, Node.js and React.js**
+<!-- - ✏ I want to learn **[AWS](https://aws.amazon.com/)** -->
+- 💬 Ask me about **Java, Node.js and React.js**
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 🌱 I’m currently learning **[Docker](https://www.docker.com/)** -->
+- 🌱 I’m currently learning **[k8s](https://kubernetes.io/)**
 
 ## About me
 I enjoy creating software, mainly the web. Excited to learn new things and to improve as a person.
@@ -18,8 +18,7 @@ Strong knowledge of languages:
 - Java
 
 Stacks:
-- Back: Node.js, Spring Boot, Quarkus.io
-- DB: MySQL, PostgreSQL, MongoDB
+- Back: Express.js, NestJS, Spring Boot, Quarkus.io, SQL & NoSQL
 - Front: React.js, Angular, Vue.js
 - Tools: GNU/Linux, Docker, Git, Firebase
 
