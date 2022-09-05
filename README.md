@@ -5,8 +5,8 @@
 - 💬 Ask me about **Java, Node.js and React.js**
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 🌱 I’m currently learning **[k8s](https://kubernetes.io/)**
+<!-- - 🤔 I’m looking for help with ... --> 
+<!-- - 🌱 I’m currently learning **[k8s](https://kubernetes.io/)** -->
 
 ## About me
 I enjoy creating software, mainly the web. Excited to learn new things and to improve as a person.
@@ -19,7 +19,7 @@ Strong knowledge of languages:
 
 Stacks:
 - Back: Express.js, NestJS, Spring Boot, Quarkus.io, SQL & NoSQL
-- Front: React.js, Angular, Vue.js
+- Front: React.js and Angular
 - Tools: GNU/Linux, Docker, Git, Firebase
 
 <p align="left">
