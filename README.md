@@ -86,4 +86,4 @@ Stacks:
 - Watch science or history documentaries
 - Training powerlifting
 - Play videogames
-- Listen to rancheras
+- Listen to rancheras (Pedro Infante and Vicente Fernandez they're my favorites!)
