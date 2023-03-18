@@ -18,9 +18,9 @@ Strong knowledge of languages:
 - Java
 
 Stacks:
-- Back: Express.js, NestJS, Spring Boot, Quarkus.io, SQL & NoSQL
+- Back: Express.js, NestJS, Spring Boot, Quarkus, SQL & NoSQL
 - Front: React.js and Angular
-- Tools: GNU/Linux, Docker, Git, Firebase
+- Tools: GNU/Linux, Docker, OpenShift, AWS, Git, Firebase
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
