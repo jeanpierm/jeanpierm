@@ -3,6 +3,7 @@
 - 🔭 I’m currently working as **Software Developer** at [Gizlo](https://gizlocorp.com/)
 <!-- - ✏ I want to learn **[AWS](https://aws.amazon.com/)** -->
 - 💬 Ask me about **Java, Node.js and React.js**
+- 🌱 Learning everyday
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... --> 
