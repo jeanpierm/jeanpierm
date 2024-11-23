@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jeanpier Mendoza 🇪🇨
 
-- 🔭 I’m currently working as **Software Developer** at [Gizlo](https://gizlocorp.com/)
+- 🔭 I’m currently working as **Senior Software Developer** at [Banco Bolivariano](https://www.bolivariano.com/)
 - 💬 Ask me about **Java, Node.js and React.js**
 - 🌱 Learning **everyday**
 <!-- - ✏ I want to learn **[AWS](https://aws.amazon.com/)** -->
